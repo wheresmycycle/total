@@ -49,7 +49,7 @@ nav{
 {
       background-size: cover;
       background-image:linear-gradient(to bottom, rgba(252, 252, 252, 0.801), rgba(255, 118, 6, 0.151)),
-    url('main.png');
+    url('../images/main.png');
       
       height: 90vh;
       display: flex;
